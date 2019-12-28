@@ -5,6 +5,9 @@
   "author": "Andre Moeller",
   "license": "MIT",
   "private": true,
+  "scripts": {
+    "develop": "gatsby develop"
+  },
   "dependencies": {
     "gatsby": "^2.18.17",
     "gatsby-theme-docs": "*",
