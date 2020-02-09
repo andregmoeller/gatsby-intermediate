@@ -13,6 +13,7 @@
     "gatsby-source-filesystem": "^2.1.28",
     "mdx-utils": "^0.2.0",
     "mkdirp": "^0.5.1",
+    "react-live": "^2.2.1",
     "theme-ui": "^0.2.43"
   }
 }
